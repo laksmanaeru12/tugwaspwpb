@@ -1,0 +1,32 @@
+nav{
+    height: 100%;
+    width: 100%;
+    background: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+}
+.masuk{
+    background-color:  rgb(87, 136, 213);
+    color: black;
+}
+.daftar{
+    background-color: rgb(87, 136, 213);
+    color: black;
+}
+.gambar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+}
+.hayuk{
+    display: inline;
+    display: flex;
+    text-decoration-line: inline;
+    }
+    
+
